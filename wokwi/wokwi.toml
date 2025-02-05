@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = '../build/periodic-timer.uf2'
+elf = '../periodic-timer.elf'
